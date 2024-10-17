@@ -16,8 +16,6 @@ I tried to limit myself to 2 hours to complete this, a chunk of which was reming
 - Would have liked to dig a little further in to the internals of Eloquent, as I think some of my abstraction probably would make more sense as custom query builders or within models.
 - Would have liked to have built a more robust response handler, but a lot of response logic is built in to Laravel so might have been a waste of time anyway.
 
-I've pushed the repository in a way that makes it easy to pull out my specific changes by first commiting the Laravel core app, then my changes, so you can look through the commits.
-
 Time limitations are obviously a factor but hopefully this displays my understanding around REST in particular.
 
 1. Initial setup...
